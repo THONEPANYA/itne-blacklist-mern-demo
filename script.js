@@ -270,10 +270,10 @@ function showNewReportNotification(){
 }
 
 // Auto-init
-document.addEventListener('DOMContentLoaded', ()=>{
-  updateCounts();
-  startNotificationSystem();
-});
+// document.addEventListener('DOMContentLoaded', ()=>{
+//   updateCounts();
+//   startNotificationSystem();
+// });
 
 // Run notifications
 // function startNotificationSystem(){
