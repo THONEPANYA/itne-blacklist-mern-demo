@@ -276,9 +276,9 @@ document.addEventListener('DOMContentLoaded', ()=>{
 });
 
 // Run notifications
-function startNotificationSystem(){
-  setTimeout(()=>{
-    showNewReportNotification();
-    setInterval(showNewReportNotification, 200000);
-  }, 5000);
-}
+// function startNotificationSystem(){
+//   setTimeout(()=>{
+//     showNewReportNotification();
+//     setInterval(showNewReportNotification, 200000);
+//   }, 5000);
+// }
